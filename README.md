@@ -53,6 +53,15 @@ Se qualcuno dovesse implementare una di queste soluzioni, vi prego di comunicarm
 4. Il negoziante conferma la disponibilità e suggerisce un intervallo di tempo in cui prelevare la spesa
 5. l'acquirente si reca presso il negozio preleva la spesa e paga
 
+## LA SOLUZIONE SU ![FACEBOOK] (https://www.facebook.com/business/)
+1. Il negoziante crea un Pagina Facebbok per il negozio
+2. Al mattino il negoziante publbica eventuali offerte e sconti
+3. Gli acquirenti inviano un messaggio al negoziante con la lista della spesa usando messenger
+4. Il negoziante conferma la disponibilita', il prezzo e suggerisce l'intervallo per prelevare la spesa
+5. L'acquirente paga tramite messenger il negoziante e riceve una ricevuta
+6. L'aquirente si reca a prelevare la spesa
+
+
 # IL RUOLO DALLA GDO
 
 La maggiorparte della GDO è già dotata di sistemi di e-commerce, ma come già osservato in questo momento il meccanismo di recapito della spesa nelle abitazioni degli acquirenti è congestionato. 
